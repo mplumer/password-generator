@@ -11,7 +11,7 @@ Use javascript to develop a web app that creates a random password when given ce
 https://mplumer.github.io/password-generator/
 
 ## Screenshot
-<img src= "assets\images\password-generator-screenshot.jpg">
+![password-generator-screenshot](https://user-images.githubusercontent.com/68719068/90989910-05376800-e56b-11ea-9334-b15f3e9932a5.jpg)
 
 
 ## Contribution
