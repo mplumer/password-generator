@@ -1,5 +1,15 @@
 // Assignment code here
+// Password Characters
+let alphabet = 'abcdefghijklmnopqrstuvwxyz';
+let alphabetcap = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+let numbers = '0123456789';
+let specialchars = "!$%&'()*+,-./:;<=>?@[]^_`{|}~";
+let password = "";
 
+// Generate Password Function
+const generatePassword = () =>{
+
+};
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
